@@ -1,0 +1,70 @@
+{
+  "Uncategorized": [
+    "AMAZON AE",
+    "EMIRATES INSURANCE",
+    "NOON.COM",
+    "SPINNEYS AE",
+    "NETFLIX.COM",
+    "ETIHAD AIRWAYS",
+    "APPLE.COM BILL",
+    "HILTON DUBAI",
+    "BOOKING.COM",
+    "ZOMATO AE"
+  ],
+  "Food": [
+    "MCDONALDS",
+    "KFC",
+    "DOMINOS",
+    "STARBUCKS",
+    "Card Payment Received"
+  ],
+  "Transport": [
+    "UBER",
+    "CAREEM",
+    "METRO",
+    "TAXI",
+    "LULU HYPERMARKET",
+    "Card Payment Received"
+  ],
+  "Shopping": [
+    "AMAZON",
+    "NOON",
+    "CARREFOUR",
+    "LULU",
+    "AMAZON AE",
+    "SPINNEYS AE",
+    "Card Payment Received"
+  ],
+  "Utilities": [
+    "DEWA",
+    "ETISALAT",
+    "DU",
+    "SEWA",
+    "Card Payment Received"
+  ],
+  "Health": [
+    "PHARMACY",
+    "HOSPITAL",
+    "CLINIC",
+    "LAB",
+    "NETFLIX.COM",
+    "Card Payment Received"
+  ],
+  "Entertainment": [
+    "NETFLIX",
+    "CINEMA",
+    "SPOTIFY",
+    "APPLE MUSIC",
+    "UBER AE",
+    "ADCB BANK FEE"
+  ],
+  "Education": [
+    "COURSERA",
+    "UDEMY",
+    "EDX",
+    "SCHOOL",
+    "Card Payment Received"
+  ],
+  "Travel": [],
+  "Other": []
+}
